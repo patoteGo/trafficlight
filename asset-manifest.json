@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trafficlight/static/css/main.c6352c47.chunk.css",
+    "main.js": "/trafficlight/static/js/main.d6260b1e.chunk.js",
+    "main.js.map": "/trafficlight/static/js/main.d6260b1e.chunk.js.map",
+    "runtime-main.js": "/trafficlight/static/js/runtime-main.fa982439.js",
+    "runtime-main.js.map": "/trafficlight/static/js/runtime-main.fa982439.js.map",
+    "static/js/2.f5001293.chunk.js": "/trafficlight/static/js/2.f5001293.chunk.js",
+    "static/js/2.f5001293.chunk.js.map": "/trafficlight/static/js/2.f5001293.chunk.js.map",
+    "index.html": "/trafficlight/index.html",
+    "precache-manifest.dbe44096811e6145bb569bbb6e99f148.js": "/trafficlight/precache-manifest.dbe44096811e6145bb569bbb6e99f148.js",
+    "service-worker.js": "/trafficlight/service-worker.js",
+    "static/css/main.c6352c47.chunk.css.map": "/trafficlight/static/css/main.c6352c47.chunk.css.map",
+    "static/js/2.f5001293.chunk.js.LICENSE.txt": "/trafficlight/static/js/2.f5001293.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa982439.js",
+    "static/js/2.f5001293.chunk.js",
+    "static/css/main.c6352c47.chunk.css",
+    "static/js/main.d6260b1e.chunk.js"
+  ]
+}
